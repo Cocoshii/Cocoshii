@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cocoshii
+- 👀 I’m interested in game development, music production, collaborating and connecting with others, and furthering my programming skills.
+- 🌱 I’m currently learning new programming environments and resources such as Linux, React, SQL
+- 💞️ I’m looking to collaborate on projects that project creativity, uniqueness, and an objective to meaningfully impact people's lives
+- 📫 How to reach me (Discord): Cocoshii#9746
